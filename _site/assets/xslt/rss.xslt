@@ -27,7 +27,7 @@
 
   
 	
-	<meta name="description" content="This website is for 7th ACM SigSpatial International Workshop 2018, November 2018, Seattle, Washington, USA" />
+	<meta name="description" content="This website is for 7th ACM SigSpatial International Workshop to be held in November 2018 at Seattle, Washington, USA" />
 
 	
 
@@ -77,7 +77,7 @@
 	<meta property="og:locale" content="en_EN" />
 	
 	<meta property="og:title" content="RSS Feed (Styled)" />
-	<meta property="og:description" content="This website is for 7th ACM SigSpatial International Workshop 2018, November 2018, Seattle, Washington, USA" />
+	<meta property="og:description" content="This website is for 7th ACM SigSpatial International Workshop to be held in November 2018 at Seattle, Washington, USA" />
 	<meta property="og:url" content="http://localhost:4000//assets/xslt/rss.xslt" />
 	<meta property="og:site_name" content="7th ACM SigSpatial International Workshop 2018" />
 	
@@ -318,10 +318,10 @@
       <div id="footer">
         <div class="row">
           <div class="medium-6 large-5 columns">
-            <h5 class="shadow-black">About This Site</h5>
+            <h5 class="shadow-black">About</h5>
 
             <p class="shadow-black">
-              This website is for 7th ACM SigSpatial International Workshop 2018, November 2018, Seattle, Washington, USA
+              This website is for 7th ACM SigSpatial International Workshop to be held in November 2018 at Seattle, Washington, USA
             </p>
           </div><!-- /.large-6.columns -->
 
