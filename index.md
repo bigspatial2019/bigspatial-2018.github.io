@@ -4,14 +4,14 @@ layout: page
 # Content
 #
 subheadline: ""
-title: ""
+title: "7th ACM SigSpatial International Workshop on analytics for Big Geospatial Data "
 teaser: ""
 header:
    image_fullwidth: "seattle2.png"
-   permalink: ""
+   permalink: "/"
 ---
 
-# Call for Papers
+## Call for Papers
 
 Big data is currently the hottest topic for data researchers and scientists with huge interests from the industry and federal agencies alike, as evident in the recent White House initiative on "Big data research and development". Within the realms of big data, spatial and spatio-temporal data is one of fastest growing types of data and poses a massive challenge to researchers who deal with analyzing such data. With advances in remote sensors, sensor networks, and the proliferation of location sensing devices in daily life activities and common business practices, the generation of disparate, dynamic, and geographically distributed spatiotemporal data has exploded in recent years. In addition, significant progress in ground, air- and space-borne sensor technologies has led to an unprecedented access to earth science data for scientists from different disciplines, interested in studying the complementary nature of different parameters.
 
@@ -23,7 +23,7 @@ We solicit high quality papers in the general areas of data analytics for large 
 
 All submitted papers will be peer reviewed. If accepted, at least one of the authors must attend the workshop to present the work. Selected accepted papers will be recommended for submission to special issues of journals.
 
-# Topics of Interest
+## Topics of Interest
 
 The workshop welcomes contributions in the area of large scale analytics for spatial and spatio-temporal data. The topics include:
 
@@ -36,11 +36,11 @@ Customizations and extensions of existing software infrastructures such as Hadoo
 Applications of big data analysis: Climate Change, Disaster Management, Monitoring Critical Infrastructures, Transportation
 
 
-# Submission website
+## Submission website
 
 [Easy Chair link](https://easychair.org/conferences/?conf=bigspatial2018)
 
-# Paper Submission
+## Paper Submission
 
 We invite papers discussing novel research and ideas without substantial overlap with papers that have been published or that are simultaneously submitted to a journal or a conference with proceedings. Submitted papers can be of two types:
 
@@ -50,7 +50,7 @@ Manuscripts should be submitted in PDF format and formatted using the [ACM camer
 
 All submitted papers will be peer reviewed. We have identified a set of researchers who are currently active in the related research areas as potential reviewers (Click here for the preliminary list). One author per accepted workshop paper is required to register for both the main SIGSPATIAL conference and the workshop, to attend the workshop, and to present the accepted paper in the workshop. Otherwise, the accepted paper will not appear in the workshop proceedings or in the ACM Digital Library version of the workshop proceedings.
 
-# Important Dates
+## Important Dates
 
 * **Paper Submission:** TBA
 * **Notification of Acceptance:** TBA

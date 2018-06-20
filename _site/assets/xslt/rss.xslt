@@ -357,17 +357,17 @@
             
               
                 <li class="network" >
-                  <a href="https://cluster17.github.io" target="_blank"  title="IEEE Cluster 2017">ACM SigSpatial 2018</a>
+                  <a href="http://sigspatial2018.sigspatial.org/" target="_blank"  title="ACM SIGSPATIAL Conference 2018">ACM SigSpatial 2018</a>
                 </li>
             
               
                 <li class="network" >
-                  <a href="https://bigspatial-2018.github.io/" target="_blank"  title="Association for Computing Machinery">ACM SigSpatial International Workshop 2018</a>
+                  <a href="https://bigspatial-2018.github.io/" target="_blank"  title="BigSpatial Workshop 2018">ACM SigSpatial International Workshop 2018</a>
                 </li>
             
               
                 <li class="network" >
-                  <a href="https://cse.buffalo.edu/~chandola/workshops/bigspatial-2017/" target="_blank"  title="ACM SigSpatial Workshop 2017">ACM SigSpatial International Workshop 2017</a>
+                  <a href="https://cse.buffalo.edu/~chandola/workshops/bigspatial-2017/" target="_blank"  title="BigSpatial Workshop 2017">ACM SigSpatial International Workshop 2017</a>
                 </li>
             
             </ul>

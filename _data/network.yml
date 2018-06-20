@@ -1,17 +1,17 @@
 - menu_name: "Related Links"
 
 - name: "ACM SigSpatial 2018"
-  url: "https://cluster17.github.io"
+  url: "http://sigspatial2018.sigspatial.org/"
   class: "network"
-  title: "IEEE Cluster 2017"
+  title: "ACM SIGSPATIAL Conference 2018"
 
 - name: "ACM SigSpatial International Workshop 2018"
   url: "https://bigspatial-2018.github.io/"
   class: "network"
-  title: "Association for Computing Machinery"
+  title: "BigSpatial Workshop 2018"
 
 - name: "ACM SigSpatial International Workshop 2017"
   url: "https://cse.buffalo.edu/~chandola/workshops/bigspatial-2017/"
   class: "network"
-  title: "ACM SigSpatial Workshop 2017"
+  title: "BigSpatial Workshop 2017"
 
