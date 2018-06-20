@@ -7,15 +7,15 @@
   side: left
 
 - title: Organizers
-  url: "/technical"
+  url: "/organizers"
   side: left
 
 - title: Program
-  url: "/authors"
+  url: "/program"
   side: left
 
 - title: Contacts
-  url: "/sponsors"
+  url: "/contacts"
   side: left
 
 - title: ACM SigSpatial 2018
