@@ -3,15 +3,40 @@ layout: page
 #
 # Content
 #
-subheadline: "Contact us"
-title: "Contact"
-teaser: "Don't hesitate to contact us if you have any issue/question."
+subheadline: ""
+title: "Contacts"
+teaser: ""
 header:
-   image_fullwidth: "belfast.jpg"
+   image_fullwidth: "seattle2.png"
    permalink: "/contact/"
 ---
 
-Please forward your questions directly to the Program Chairs or the General Chairs.
+For general questions about the workshop, please contact any of the following workshop chairs:
+
+
+### Varun Chandola
+
+Computer Science   
+University at Buffalo  
+213 Capen Hall  
+Buffalo, NY 14260  
+[http://www.cse.buffalo.edu/~chandola/](http://www.cse.buffalo.edu/~chandola/)  
+Email: chandola at buffalo dot edu  
+Phone: +1-716-645-4747  
+
+
+
+### Ranga Raju Vatsavai
+
+Computer Science   
+North Carolina State University  
+890 Oval Drive  
+Raleigh, NC 27695  
+[https://people.engr.ncsu.edu/rrvatsav/](https://people.engr.ncsu.edu/rrvatsav/)  
+Email: rrvatsav at ncsu dot edu  
+Phone: +1-919-515-6019  
+
+
 
 
 

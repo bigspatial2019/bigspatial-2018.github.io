@@ -3,11 +3,11 @@ layout: page
 #
 # Content
 #
-subheadline: "7th ACM SigSpatial International Workshop 2018"
-title: "Welcome!"
-teaser: "November 6 - 9, 2018, Seattle, Washington, USA."
+subheadline: ""
+title: ""
+teaser: ""
 header:
-   image_fullwidth: ""
+   image_fullwidth: "seattle2.png"
    permalink: "/"
 ---
 
