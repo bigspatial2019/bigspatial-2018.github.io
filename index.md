@@ -8,7 +8,7 @@ title: ""
 teaser: ""
 header:
    image_fullwidth: "seattle2.png"
-   permalink: "/"
+   permalink: ""
 ---
 
 # Call for Papers
