@@ -4,7 +4,7 @@ layout: page
 # Content
 #
 subheadline: ""
-title: "7th ACM SigSpatial International Workshop on analytics for Big Geospatial Data "
+title: "7th ACM SIGSPATIAL International Workshop on analytics for Big Geospatial Data "
 teaser: ""
 header:
    image_fullwidth: "seattle2.png"
