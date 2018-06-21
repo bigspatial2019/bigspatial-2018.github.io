@@ -43,7 +43,7 @@ Computer Science and Engineering
 University at Buffalo  
 212 Capen Hall  
 Buffalo, NY 14260  
-Web: [https://smazcw3.github.io/](https://smazcw3.github.io/)  
+Web: [https://smazcw3.github.io/](https://smazcw3.github.io/){:target="_blank"}   
 Email: szaidi2 at buffalo dot edu
 
 
