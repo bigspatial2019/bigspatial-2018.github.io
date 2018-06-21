@@ -19,7 +19,7 @@ Computer Science and Engineering
 University at Buffalo  
 213 Capen Hall  
 Buffalo, NY 14260  
-Web: [https://www.cse.buffalo.edu/~chandola/](https://www.cse.buffalo.edu/~chandola/)  
+Web: [https://www.cse.buffalo.edu/~chandola/](https://www.cse.buffalo.edu/~chandola/){:target="_blank"}  
 Email: chandola at buffalo dot edu  
 Phone: +1-716-645-4747  
 
@@ -31,7 +31,7 @@ Computer Science
 North Carolina State University  
 890 Oval Drive  
 Raleigh, NC 27695  
-Web: [https://people.engr.ncsu.edu/rrvatsav/](https://people.engr.ncsu.edu/rrvatsav/)  
+Web: [https://people.engr.ncsu.edu/rrvatsav/](https://people.engr.ncsu.edu/rrvatsav/){:target="_blank"}  
 Email: rrvatsav at ncsu dot edu  
 Phone: +1-919-515-6019  
 
