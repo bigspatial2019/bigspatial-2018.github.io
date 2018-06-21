@@ -20,7 +20,7 @@ Computer Science
 University at Buffalo  
 213 Capen Hall  
 Buffalo, NY 14260  
-Web: [http://www.cse.buffalo.edu/~chandola/](http://www.cse.buffalo.edu/~chandola/)  
+Web: [http://www.cse.buffalo.edu/~chandola/](https://cse.buffalo.edu/~chandola/)  
 Email: chandola at buffalo dot edu  
 Phone: +1-716-645-4747  
 
