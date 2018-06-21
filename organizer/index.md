@@ -47,7 +47,7 @@ Web: [https://smazcw3.github.io/](https://smazcw3.github.io/){:target="_blank"}
 Email: szaidi2 at buffalo dot edu
 
 
-## Program Committee (Tentative)
+## Program Committee
  TBA
 
 
