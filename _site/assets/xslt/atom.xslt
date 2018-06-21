@@ -79,7 +79,7 @@
 	<meta property="og:title" content="Atom Feed (Styled)" />
 	<meta property="og:description" content="This website is for 7th ACM SIGSPATIAL International BigSpatial workshop to be held in November 2018 at Seattle, Washington, USA" />
 	<meta property="og:url" content="http://localhost:4000//assets/xslt/atom.xslt" />
-	<meta property="og:site_name" content="7th ACM SIGSPATIAL International Workshop 2018" />
+	<meta property="og:site_name" content="BigSpatial 2018" />
 	
 
 	
@@ -113,7 +113,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="http://localhost:4000"> 7th ACM SIGSPATIAL International Workshop 2018</a></h1>
+      <h1 class="show-for-small-only"><a href="http://localhost:4000"> BigSpatial 2018</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Navigation</span></a></li>
@@ -243,8 +243,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<!-- ><a id="logo" href="http://localhost:4000" title="7th ACM SIGSPATIAL International Workshop 2018 – Analytics for Big GeoSpatial Data"> -->
-			<!--	<img src="http://localhost:4000/assets/img/seattle2.png" alt="7th ACM SIGSPATIAL International Workshop 2018 – Analytics for Big GeoSpatial Data"> -->
+			<!-- ><a id="logo" href="http://localhost:4000" title="BigSpatial 2018 – 7th ACM SIGSPATIAL International Workshop on Analytics for Big GeoSpatial Data (BigSpatial 2018)"> -->
+			<!--	<img src="http://localhost:4000/assets/img/seattle2.png" alt="BigSpatial 2018 – 7th ACM SIGSPATIAL International Workshop on Analytics for Big GeoSpatial Data (BigSpatial 2018)"> -->
 			<!-- </a> -->
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
