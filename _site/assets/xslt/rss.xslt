@@ -27,7 +27,7 @@
 
   
 	
-	<meta name="description" content="This website is for 7th ACM SigSpatial International Workshop to be held in November 2018 at Seattle, Washington, USA" />
+	<meta name="description" content="This website is for 7th ACM SIGSPATIAL International BigSpatial workshop to be held in November 2018 at Seattle, Washington, USA" />
 
 	
 
@@ -77,7 +77,7 @@
 	<meta property="og:locale" content="en_EN" />
 	
 	<meta property="og:title" content="RSS Feed (Styled)" />
-	<meta property="og:description" content="This website is for 7th ACM SigSpatial International Workshop to be held in November 2018 at Seattle, Washington, USA" />
+	<meta property="og:description" content="This website is for 7th ACM SIGSPATIAL International BigSpatial workshop to be held in November 2018 at Seattle, Washington, USA" />
 	<meta property="og:url" content="http://localhost:4000//assets/xslt/rss.xslt" />
 	<meta property="og:site_name" content="7th ACM SigSpatial International Workshop 2018" />
 	
@@ -195,7 +195,7 @@
 
             
             
-              <li><a href="http://localhost:4000">Program</a></li>
+              <li><a href="http://localhost:4000/program">Program</a></li>
               <li class="divider"></li>
 
             
@@ -321,7 +321,7 @@
             <h5 class="shadow-black">About</h5>
 
             <p class="shadow-black">
-              This website is for 7th ACM SigSpatial International Workshop to be held in November 2018 at Seattle, Washington, USA
+              This website is for 7th ACM SIGSPATIAL International BigSpatial workshop to be held in November 2018 at Seattle, Washington, USA
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -357,17 +357,17 @@
             
               
                 <li class="network" >
-                  <a href="http://sigspatial2018.sigspatial.org/" target="_blank"  title="ACM SIGSPATIAL Conference 2018">ACM SigSpatial 2018</a>
+                  <a href="http://sigspatial2018.sigspatial.org/" target="_blank"  title="ACM SIGSPATIAL Conference 2018">ACM SIGSPATIAL 2018</a>
                 </li>
             
               
                 <li class="network" >
-                  <a href="https://bigspatial-2018.github.io/" target="_blank"  title="BigSpatial Workshop 2018">ACM SigSpatial International Workshop 2018</a>
+                  <a href="https://bigspatial-2018.github.io/" target="_blank"  title="BigSpatial Workshop 2018">ACM SIGSPATIAL International Workshop 2018</a>
                 </li>
             
               
                 <li class="network" >
-                  <a href="https://cse.buffalo.edu/~chandola/workshops/bigspatial-2017/" target="_blank"  title="BigSpatial Workshop 2017">ACM SigSpatial International Workshop 2017</a>
+                  <a href="https://cse.buffalo.edu/~chandola/workshops/bigspatial-2017/" target="_blank"  title="BigSpatial Workshop 2017">ACM SIGSPATIAL International Workshop 2017</a>
                 </li>
             
             </ul>

@@ -1,16 +1,16 @@
 - menu_name: "Related Links"
 
-- name: "ACM SigSpatial 2018"
+- name: "ACM SIGSPATIAL 2018"
   url: "http://sigspatial2018.sigspatial.org/"
   class: "network"
   title: "ACM SIGSPATIAL Conference 2018"
 
-- name: "ACM SigSpatial International Workshop 2018"
+- name: "ACM SIGSPATIAL International Workshop 2018"
   url: "https://bigspatial-2018.github.io/"
   class: "network"
   title: "BigSpatial Workshop 2018"
 
-- name: "ACM SigSpatial International Workshop 2017"
+- name: "ACM SIGSPATIAL International Workshop 2017"
   url: "https://cse.buffalo.edu/~chandola/workshops/bigspatial-2017/"
   class: "network"
   title: "BigSpatial Workshop 2017"
