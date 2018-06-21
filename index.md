@@ -47,6 +47,7 @@ We invite papers discussing novel research and ideas without substantial overlap
 1. **Regular Research Papers:** These papers should report original research results or significant case studies. They should be at most 10 pages.  
 
 2. **Position Papers:** These papers should report novel research directions or identify challenging problems. They should be at most 4 pages.
+
 Manuscripts should be submitted in PDF format and formatted using the [ACM camera-ready templates](http://www.acm.org/publications/proceedings-template). Submissions are limited to 10 pages. All submissions should clearly present the author information including the names of the authors, the affiliations and the emails. The papers should be submitted through the [workshop submission system](https://easychair.org/conferences/?conf=bigspatial2018).
 
 All submitted papers will be peer reviewed. We have identified a set of researchers who are currently active in the related research areas as potential reviewers (Click here for the preliminary list). One author per accepted workshop paper is required to register for both the main SIGSPATIAL conference and the workshop, to attend the workshop, and to present the accepted paper in the workshop. Otherwise, the accepted paper will not appear in the workshop proceedings or in the ACM Digital Library version of the workshop proceedings.
