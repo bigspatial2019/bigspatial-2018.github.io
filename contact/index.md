@@ -16,7 +16,7 @@ For general questions about the workshop, please contact any of the following wo
 
 ### Varun Chandola
 
-Computer Science and Engineering
+Computer Science and Engineering  
 University at Buffalo  
 213 Capen Hall  
 Buffalo, NY 14260  
