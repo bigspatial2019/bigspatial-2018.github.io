@@ -11,6 +11,7 @@ header:
    permalink: "/"
 ---
 
+
 ## Call for Papers
 
 Big data is currently the hottest topic for data researchers and scientists with huge interests from the industry and federal agencies alike, as evident in the recent White House initiative on "Big data research and development". Within the realms of big data, spatial and spatio-temporal data is one of fastest growing types of data and poses a massive challenge to researchers who deal with analyzing such data. With advances in remote sensors, sensor networks, and the proliferation of location sensing devices in daily life activities and common business practices, the generation of disparate, dynamic, and geographically distributed spatiotemporal data has exploded in recent years. In addition, significant progress in ground, air- and space-borne sensor technologies has led to an unprecedented access to earth science data for scientists from different disciplines, interested in studying the complementary nature of different parameters.

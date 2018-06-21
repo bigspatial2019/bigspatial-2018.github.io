@@ -15,7 +15,7 @@ header:
 
 #### Varun Chandola
 
-Computer Science   
+Computer Science and Engineering
 University at Buffalo  
 213 Capen Hall  
 Buffalo, NY 14260  
