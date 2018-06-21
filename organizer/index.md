@@ -44,7 +44,7 @@ University at Buffalo
 212 Capen Hall  
 Buffalo, NY 14260  
 Web: [https://smazcw3.github.io/](https://smazcw3.github.io/)  
-Email: szaidi2 at buffalo.edu
+Email: szaidi2 at buffalo dot edu
 
 
 ## Program Committee (Tentative)
