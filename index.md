@@ -39,7 +39,7 @@ The workshop welcomes contributions in the area of large scale analytics for spa
 
 ## Submission website
 
-[Easy Chair link](https://easychair.org/conferences/?conf=bigspatial2018)
+[https://easychair.org/conferences/?conf=bigspatial2018](https://easychair.org/conferences/?conf=bigspatial2018)
 
 ## Paper Submission
 
