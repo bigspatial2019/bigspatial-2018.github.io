@@ -55,9 +55,9 @@ All submitted papers will be peer reviewed. We have identified a set of research
 
 ## Important Dates
 
-* **Paper Submission:** TBA
-* **Notification of Acceptance:** TBA
-* **Camera Ready Paper Due:** TBA
+* **Paper Submission:** August 31, 2018
+* **Notification of Acceptance:** September 21, 2018
+* **Camera Ready Paper Due:** October 5, 2018
 
 All submissions are due at 11:59 PM Pacific Standard Time.
 
