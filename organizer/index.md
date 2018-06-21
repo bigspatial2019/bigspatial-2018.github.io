@@ -31,7 +31,7 @@ Computer Science
 North Carolina State University  
 890 Oval Drive  
 Raleigh, NC 27695  
-Web: [https://www.csc.ncsu.edu/people/rrvatsav/](https://www.csc.ncsu.edu/people/rrvatsav/)  
+Web: [https://people.engr.ncsu.edu/rrvatsav/](https://people.engr.ncsu.edu/rrvatsav/)  
 Email: rrvatsav at ncsu dot edu  
 Phone: +1-919-515-6019  
 
