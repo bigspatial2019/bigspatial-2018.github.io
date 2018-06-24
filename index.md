@@ -45,9 +45,9 @@ The workshop welcomes contributions in the area of large scale analytics for spa
 
 We invite papers discussing novel research and ideas without substantial overlap with papers that have been published or that are simultaneously submitted to a journal or a conference with proceedings. Submitted papers can be of two types:
 
-1. **Regular Research Papers:** These papers should report original research results or significant case studies. They should be at most 10 pages.  
+1. **Regular Research Papers:** These papers should report original research results or significant case studies. They should be **at most 10 pages.**  
 
-2. **Position Papers:** These papers should report novel research directions or identify challenging problems. They should be at most 4 pages.
+2. **Position Papers:** These papers should report novel research directions or identify challenging problems. They should be **at most 4 pages.**
 
 Manuscripts should be submitted in PDF format and formatted using the [ACM camera-ready templates](http://www.acm.org/publications/proceedings-template){:target="_blank"}. Submissions are limited to 10 pages. All submissions should clearly present the author information including the names of the authors, the affiliations and the emails. The papers should be submitted through the [workshop submission system](https://easychair.org/conferences/?conf=bigspatial2018){:target="_blank"}.
 
