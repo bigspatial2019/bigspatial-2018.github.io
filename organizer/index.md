@@ -39,7 +39,7 @@ Phone: +1-919-515-6019
 ## Student Coordinator
 
 #### Syed Mohammed Arshad Zaidi
-Computer Science and Engineerin  
+Computer Science and Engineering  
 University at Buffalo  
 212 Capen Hall  
 Buffalo, NY 14260  
