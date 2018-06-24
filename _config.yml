@@ -18,9 +18,6 @@ slogan: "7th ACM SIGSPATIAL International Workshop on Analytics for Big GeoSpati
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: "This website is for 7th ACM SIGSPATIAL International BigSpatial workshop to be held in November 2018 at Seattle, Washington, USA"
 
-# Main author of the website
-# See > authors.yml
-#author: ggeorgakoudis
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
