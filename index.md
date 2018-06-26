@@ -52,8 +52,10 @@ We invite papers discussing novel research and ideas without substantial overlap
 {: style=" text-align: justify"}
 
 1. **Regular Research Papers:** These papers should report original research results or significant case studies. They should be **at most 10 pages.**  
+{: style=" text-align: justify"}
 
-2. **Position Papers:** These papers should report novel research directions or identify challenging problems. They should be **at most 4 pages.**
+2. **Position Papers:** These papers should report novel research directions or identify challenging problems. They should be **at most 4 pages.** 
+{: style=" text-align: justify"}
 
 Manuscripts should be submitted in PDF format and formatted using the [ACM camera-ready templates](http://www.acm.org/publications/proceedings-template){:target="_blank"}. Submissions are limited to 10 pages. All submissions should clearly present the author information including the names of the authors, the affiliations and the emails. The papers should be submitted through the [workshop submission system](https://easychair.org/conferences/?conf=bigspatial2018){:target="_blank"}.
 {: style=" text-align: justify"}
