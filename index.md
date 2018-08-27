@@ -65,9 +65,9 @@ All submitted papers will be peer reviewed. We have identified a set of research
 
 ## Important Dates
 
-* **Paper Submission:** <span style="color:red">~~August 31, 2018~~ September 7, 2018</span>
-* **Notification of Acceptance:** <span style="color:red">~~September 21, 2018~~ September 28, 2018</span>
-* **Camera Ready Paper Due:** <span style="color:red">~~October 5, 2018~~ October 12, 2018</span>
+* **Paper Submission:** <span style="color:red">~~August 31, 2018~~ **September 7, 2018**</span>
+* **Notification of Acceptance:** <span style="color:red">~~September 21, 2018~~ **September 28, 2018**</span>
+* **Camera Ready Paper Due:** <span style="color:red">~~October 5, 2018~~ **October 12, 2018**</span>
 
 All submissions are due at 11:59 PM Pacific Standard Time.
 
