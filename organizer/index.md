@@ -49,25 +49,25 @@ Email: szaidi2 at buffalo dot edu
 
 ## Program Committee
  * Hong Seokyong, North Carolina State University
- * [Sorokine Alexandre](https://web.ornl.gov/sci/gist/staff_bios/detailed_sorokine.shtml), ORNL
+ * [Sorokine Alexandre](https://web.ornl.gov/sci/gist/staff_bios/detailed_sorokine.shtml){:target="_blank"}, ORNL
  * Mohan Pradeep, SAS Institute Inc.
- * [Meger Nicolas](https://www.listic.univ-smb.fr/en/presentation-en/members/lecturers/nicolas-meger-en/), Université de Savoie - LISTIC laboratory
- * [Li Ki-Joune](http://isel.cs.pusan.ac.kr/~lik/likEng.html), Pusan National University
+ * [Meger Nicolas](https://www.listic.univ-smb.fr/en/presentation-en/members/lecturers/nicolas-meger-en/){:target="_blank"}, Université de Savoie - LISTIC laboratory
+ * [Li Ki-Joune](http://isel.cs.pusan.ac.kr/~lik/likEng.html){:target="_blank"}, Pusan National University
  * Manco Giuseppe, ICAR-CNR
- * Yoo Eunhye, University at Buffalo
+ * [Yoo Eunhye](https://www.buffalo.edu/cas/geography/faculty/faculty_directory/eun-hye-enki-yoo.html){:target="_blank"}, University at Buffalo
  * Yang Chaowei, GMU
  * Cuzzocrea Alfredo, ICAR-CNR and University of Calabria
- * [Zhang Jianting](https://www.ccny.cuny.edu/profiles/jianting-zhang), City University of New York
- * [Vlachos Michail](https://researcher.watson.ibm.com/researcher/view.php?person=zurich-mvl), IBM Research - Zurich
- * [Atzori Maurizio](http://atzori.webofcode.org/), University of Cagliari
- * [Wachowicz Monica](http://www.unb.ca/faculty-staff/directory/engineering-geomatics/wachowicz-monica.html), University of New Brunswick
- * [Croitoru Arie](https://cos.gmu.edu/ggs/people/faculty-staff/arie-croitoru/), George Mason University
+ * [Zhang Jianting](https://www.ccny.cuny.edu/profiles/jianting-zhang){:target="_blank"}, City University of New York
+ * [Vlachos Michail](https://researcher.watson.ibm.com/researcher/view.php?person=zurich-mvl){:target="_blank"}, IBM Research - Zurich
+ * [Atzori Maurizio](http://atzori.webofcode.org/){:target="_blank"}, University of Cagliari
+ * [Wachowicz Monica](http://www.unb.ca/faculty-staff/directory/engineering-geomatics/wachowicz-monica.html){:target="_blank"}, University of New Brunswick
+ * [Croitoru Arie](https://cos.gmu.edu/ggs/people/faculty-staff/arie-croitoru/){:target="_blank"}, George Mason University
  * Raffaeta' Alessandra, Universita' Ca' Foscari Venezia
- * [Janeja Vandana](https://userpages.umbc.edu/~vjaneja/), UMBC, Is Department
+ * [Janeja Vandana](https://userpages.umbc.edu/~vjaneja/){:target="_blank"}, UMBC, Is Department
  * Durbha Surya, IIT Bombay
  * Shashidharan Ashwin, North Carolina State University
  * Jun Goo, University of Texas Health Science Center at Houston
- * [Aksoy Selim](http://www.cs.bilkent.edu.tr/~saksoy/), Bilkent University
+ * [Aksoy Selim](http://www.cs.bilkent.edu.tr/~saksoy/){:target="_blank"}  , Bilkent University
  
 
 
