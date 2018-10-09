@@ -67,7 +67,9 @@ Email: szaidi2 at buffalo dot edu
  * Durbha Surya, IIT Bombay
  * Shashidharan Ashwin, North Carolina State University
  * Jun Goo, University of Texas Health Science Center at Houston
- * [Aksoy Selim](http://www.cs.bilkent.edu.tr/~saksoy/){:target="_blank"}  , Bilkent University
+ * [Aksoy Selim](http://www.cs.bilkent.edu.tr/~saksoy/){:target="_blank"}, Bilkent University
+ * Mills Richard, Intel
+ * Wang Fusheng, Stony Brook University
  
 
 
