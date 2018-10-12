@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_custom
 #
 # Content
 #
@@ -10,6 +10,7 @@ header:
    image_fullwidth: "seattle2.png"
    permalink: "/program/"
 ---
+
 
 ---------------------------------------
 
@@ -80,7 +81,8 @@ header:
 
 ---------------------------------------
 
-
+<br />
+<br />
 
 
 
