@@ -19,7 +19,7 @@ header:
 
 #### Session 1
 
-* `09:10 - 10:00` : **Transforming Smart Cities and Communities with Spatial Computing** *Dr. Shashi Shekhar* -- [Keynote Talk](/program/keynotes#talk1)
+* `09:10 - 10:00` : **Transforming Smart Cities and Communities with Spatial Computing** *Dr. Shashi Shekhar, University of Minnesota* -- [Keynote Talk](/program/keynotes#talk1)
 
 * `10:00 - 10:30` : **A Performance Study of Big Spatial Data Systems**   
 *Md Mahbub Alam, Suprio Ray and Virendra C. Bhavsar*
