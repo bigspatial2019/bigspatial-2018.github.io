@@ -48,7 +48,7 @@ Email: szaidi2 at buffalo dot edu
 
 
 ## Program Committee
- * Hong Seokyong, North Carolina State University
+ * [Hong Seokyong](https://www.csc.ncsu.edu/people/shong3){:target="_blank"}, North Carolina State University
  * [Sorokine Alexandre](https://web.ornl.gov/sci/gist/staff_bios/detailed_sorokine.shtml){:target="_blank"}, ORNL
  * Mohan Pradeep, SAS Institute Inc.
  * [Meger Nicolas](https://www.listic.univ-smb.fr/en/presentation-en/members/lecturers/nicolas-meger-en/){:target="_blank"}, Université de Savoie - LISTIC laboratory
@@ -69,7 +69,7 @@ Email: szaidi2 at buffalo dot edu
  * Jun Goo, University of Texas Health Science Center at Houston
  * [Aksoy Selim](http://www.cs.bilkent.edu.tr/~saksoy/){:target="_blank"}, Bilkent University
  * Mills Richard, Intel
- * Wang Fusheng, Stony Brook University
+ * [Wang Fusheng](https://www.cs.stonybrook.edu/people/faculty/FushengWang){:target="_blank"}, Stony Brook University
  
 
 
