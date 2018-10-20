@@ -67,7 +67,6 @@ Shashi received a Ph.D. degree in Computer Science and a M.S. degree in Business
 
 #### Speaker Bio: TBA
 
-<br />
 
 ---------------------------------------
 
