@@ -13,13 +13,13 @@ header:
 
 ---------------------------------------
 
-#### 09:00 - 09:10 : Opening Remarks : [Foreword](docs/Frontmatter.pdf)
+#### 09:00 - 09:10 : Opening Remarks -- [Foreword](docs/Frontmatter.pdf)
 
 ---------------------------------------
 
 #### Session 1
 
-* `09:10 - 10:00` : **Transforming Smart Cities and Communities with Spatial Computing** *Dr. Shashi Shekhar, University of Minnesota* -- [Keynote Talk](/program/keynotes/#talk1)
+* `09:10 - 10:00` : **Transforming Smart Cities and Communities with Spatial Computing** *Dr. Shashi Shekhar, University of Minnesota* -- [**Keynote Talk**](/program/keynotes/#talk1)
 
 * `10:00 - 10:30` : **A Performance Study of Big Spatial Data Systems**   
 *Md Mahbub Alam, Suprio Ray and Virendra C. Bhavsar*
@@ -69,7 +69,7 @@ header:
 
 #### Session 4
 
-* `16:30 - 17:15` : **TBA** [Invited Talk](/program/keynotes/#talk2)
+* `16:30 - 17:15` : **TBA** -- [**Invited Talk**](/program/keynotes/#talk2)
 
 * `17:15 - 17:45` : **WebGlobe - A cloud based geospatial analysis framework for interacting with climate data**   
 *Arun Sharma, Syed Mohammed Arshad Zaidi, Varun Chandola, Melissa R. Allen and Budhendra L. Bhaduri*
