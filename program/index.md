@@ -69,14 +69,12 @@ header:
 
 #### Session 4
 
-* `16:30 - 17:15` : **TBA** -- [**Invited Talk**](/program/keynotes/#talk2)
-
-* `17:15 - 17:45` : **WebGlobe - A cloud based geospatial analysis framework for interacting with climate data**   
+* `16:30 - 17:15` : **WebGlobe - A cloud based geospatial analysis framework for interacting with climate data**   
 *Arun Sharma, Syed Mohammed Arshad Zaidi, Varun Chandola, Melissa R. Allen and Budhendra L. Bhaduri*
 
 ---------------------------------------
 
-#### 17:45 - 17:50 : Closing Remarks
+#### 17:15 - 17:20 : Closing Remarks
 
 ---------------------------------------
 

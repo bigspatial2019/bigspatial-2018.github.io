@@ -55,20 +55,6 @@ In early 1990s, Shashi's research developed core technologies behind in-vehicle 
 Shashi received a Ph.D. degree in Computer Science and a M.S. degree in Business Administration from the University of California (Berkeley, CA) and an undergraduate degree from the I.I.T. Kanpur (India).
 {: style=" text-align: justify"}
 
-<a id="talk2"> </a> 
-
----------------------------------------
-<br />
-
-#### Title: TBA 
-
-#### Speaker: TBA
-
-#### Abstract: TBA
-
-#### Speaker Bio: TBA
-
-
 ---------------------------------------
 
 <br />
