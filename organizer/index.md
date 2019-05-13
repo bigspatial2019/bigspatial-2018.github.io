@@ -73,7 +73,7 @@ Email: szaidi2 at buffalo dot edu
  * Raffaeta' Alessandra, Universita' Ca' Foscari Venezia
  * [Janeja Vandana](https://userpages.umbc.edu/~vjaneja/){:target="_blank"}, UMBC, Is Department
  * Durbha Surya, IIT Bombay
- * Shashidharan Ashwin, North Carolina State University
+ * Shashidharan Ashwin, Esri
  * Jun Goo, University of Texas Health Science Center at Houston
  * [Aksoy Selim](http://www.cs.bilkent.edu.tr/~saksoy/){:target="_blank"}, Bilkent University
  * Mills Richard, Intel
