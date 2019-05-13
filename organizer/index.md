@@ -36,6 +36,14 @@ Email: rrvatsav at ncsu dot edu
 Phone: +1-919-515-6019  
 
 
+
+#### Ashwin Shashidharan
+
+Esri, USA 
+Email: ashashidharan@esri.com
+
+
+
 ## Student Coordinator
 
 #### Syed Mohammed Arshad Zaidi

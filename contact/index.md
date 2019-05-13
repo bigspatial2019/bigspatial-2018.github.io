@@ -7,7 +7,7 @@ subheadline: ""
 title: "Contacts"
 teaser: ""
 header:
-   image_fullwidth: "seattle2.png"
+   image_fullwidth: "chicago2.png"
    permalink: "/contact/"
 ---
 
@@ -36,6 +36,12 @@ Web: [https://people.engr.ncsu.edu/rrvatsav/](https://people.engr.ncsu.edu/rrvat
 Email: rrvatsav at ncsu dot edu  
 Phone: +1-919-515-6019  
 
+
+
+#### Ashwin Shashidharan
+
+Esri, USA 
+Email: ashashidharan@esri.com
 
 
 
