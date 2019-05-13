@@ -1,4 +1,4 @@
-# bigspatial-2019.github.io
+# bigspatial2019.github.io
 BigSpatial19 website
 
 
