@@ -40,7 +40,7 @@ Phone: +1-919-515-6019
 #### Ashwin Shashidharan
 
 Esri, USA  
-Email: ashashidharan@esri.com
+Email: ashashidharan at esri dot com
 
 
 
