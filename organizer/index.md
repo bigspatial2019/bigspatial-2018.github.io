@@ -7,7 +7,7 @@ subheadline: ""
 title: "Organizers"
 teaser: ""
 header:
-   image_fullwidth: "seattle2.png"
+   image_fullwidth: "chicago2.png"
    permalink: "/organizer/"
 ---
 
@@ -39,7 +39,7 @@ Phone: +1-919-515-6019
 
 #### Ashwin Shashidharan
 
-Esri, USA 
+Esri, USA  
 Email: ashashidharan@esri.com
 
 
