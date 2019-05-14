@@ -4,10 +4,12 @@ layout: page
 # Content
 #
 subheadline: ""
-title: "8th ACM SIGSPATIAL International Workshop on analytics for Big Geospatial Data (BigSpatial 2019) "
+title: "8th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data (BigSpatial 2019) "
 teaser: ""
 header:
-   image_fullwidth: "chicago2.png"
+   title: "8th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data (BigSpatial 2019)"
+   title2: "November 5, 2019, Chicago, Illinois, USA"
+   image_fullwidth: "chicago.jpg"
    permalink: "/"
 ---
 
@@ -42,7 +44,7 @@ The workshop welcomes contributions in the area of large scale analytics for spa
 7. Applications of big data analysis: Climate Change, Disaster Management, Monitoring Critical Infrastructures, Transportation
 
 
-## Submission website
+## Submission Website
 
 [https://easychair.org/conferences/?conf=bigspatial2019](https://easychair.org/conferences/?conf=bigspatial2019){:target="_blank"}
 
