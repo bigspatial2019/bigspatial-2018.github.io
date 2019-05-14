@@ -42,7 +42,7 @@ The workshop welcomes contributions in the area of large scale analytics for spa
 7. Applications of big data analysis: Climate Change, Disaster Management, Monitoring Critical Infrastructures, Transportation
 
 
-## Submission website
+## Submission Website
 
 [https://easychair.org/conferences/?conf=bigspatial2019](https://easychair.org/conferences/?conf=bigspatial2019){:target="_blank"}
 
