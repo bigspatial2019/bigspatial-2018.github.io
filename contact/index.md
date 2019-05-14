@@ -7,7 +7,9 @@ subheadline: ""
 title: "Contacts"
 teaser: ""
 header:
-   image_fullwidth: "chicago2.png"
+   title: "8th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data (BigSpatial 2019)"
+   title2: "November 5, 2019, Chicago, Illinois, USA"
+   image_fullwidth: "chicago.jpg"
    permalink: "/contact/"
 ---
 
