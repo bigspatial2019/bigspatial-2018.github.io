@@ -7,7 +7,7 @@ subheadline: ""
 title: "Organizers"
 teaser: ""
 header:
-   ![test image size](/images/chicago2.png){:class="img-responsive"}
+   image_fullwidth: "chicago2.png"
    permalink: "/organizer/"
 ---
 
