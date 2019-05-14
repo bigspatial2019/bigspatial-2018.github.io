@@ -4,7 +4,7 @@ layout: page
 # Content
 #
 subheadline: ""
-title: "8th ACM SIGSPATIAL International Workshop on analytics for Big Geospatial Data (BigSpatial 2019) "
+title: "8th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data (BigSpatial 2019) "
 teaser: ""
 header:
    image_fullwidth: "chicago2.png"
