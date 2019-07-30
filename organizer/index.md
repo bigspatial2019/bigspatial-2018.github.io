@@ -7,7 +7,9 @@ subheadline: ""
 title: "Organizers"
 teaser: ""
 header:
-   image_fullwidth: "chicago.png"
+   title: "8th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data (BigSpatial 2019)"
+   title2: "November 5, 2019, Chicago, Illinois, USA"
+   image_fullwidth: "chicago.jpg"
    permalink: "/organizer/"
 ---
 
@@ -78,8 +80,3 @@ Email: szaidi2 at buffalo dot edu
  * [Aksoy Selim](http://www.cs.bilkent.edu.tr/~saksoy/){:target="_blank"}, Bilkent University
  * Mills Richard, Intel
  * [Wang Fusheng](https://www.cs.stonybrook.edu/people/faculty/FushengWang){:target="_blank"}, Stony Brook University
- 
-
-
-
-
