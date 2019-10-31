@@ -21,7 +21,7 @@ header:
 
 #### Session 1
 
-* `09:15 - 10:05` : **Keynote Talk** 
+* `09:15 - 10:05` : **Keynote Talk**   
 *Dr. Dalton D. Lunga, Oak Ridge National Laboratory* -- [**Keynote Talk**](/keynotes/#talk1)
 
 * `10:05 - 10:30` : **Distributed Moving Object Data Management in MobilityDB**   
