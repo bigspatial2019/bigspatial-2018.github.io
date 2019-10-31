@@ -11,8 +11,8 @@
   side: left
 
 - title: Program
- url: "/program"
- side: left
+  url: "/program"
+  side: left
 
 - title: Contacts
   url: "/contact"
