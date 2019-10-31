@@ -5,7 +5,7 @@ layout: page_custom
 #
 subheadline: ""
 title: "Program"
-teaser: ""
+teaser: "Tuesday, November 6, 2019 - Chicago, Illinois, USA"
 header:
    title: "8th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data (BigSpatial 2019)"
    title2: "November 5, 2019, Chicago, Illinois, USA"
@@ -21,7 +21,8 @@ header:
 
 #### Session 1
 
-* `09:15 - 10:05` : **Keynote Talk** *Dr. Dalton D. Lunga, Oak Ridge National Laboratory* -- [**Keynote Talk**](/keynotes/#talk1)
+* `09:15 - 10:05` : **Keynote Talk** 
+*Dr. Dalton D. Lunga, Oak Ridge National Laboratory* -- [**Keynote Talk**](/keynotes/#talk1)
 
 * `10:05 - 10:30` : **Distributed Moving Object Data Management in MobilityDB**   
 *Mohamed Bakli, Mahmoud Sakr, Esteban Zimanyi*
