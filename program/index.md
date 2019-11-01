@@ -21,7 +21,7 @@ header:
 
 #### Session 1
 
-* `09:15 - 10:05` : **Creating global scale data layers from trillion pixels with machine learning: challenges and opportunities**   
+* `09:15 - 10:05` : **Creating Global Scale Data Layers from Trillion Pixels with Machine Learning: Challenges and Opportunities**   
 *Dr. Dalton D. Lunga, Oak Ridge National Laboratory* -- [**Keynote Talk**](/program/keynotes/#talk1)
 
 * `10:05 - 10:30` : **Distributed Moving Object Data Management in MobilityDB**    
