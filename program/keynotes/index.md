@@ -5,7 +5,7 @@ layout: page_custom
 #
 subheadline: ""
 title: "Keynotes"
-teaser: ""
+teaser: "Tuesday, November 5, 2019 - Chicago, Illinois, USA"
 header:
    title: "8th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data (BigSpatial 2019)"
    title2: "November 5, 2019, Chicago, Illinois, USA"
