@@ -21,10 +21,10 @@ header:
 
 #### Session 1
 
-* `09:15 - 10:05` : **Keynote Talk**   
+* `09:15 - 10:05` : ** Creating global scale data layers from trillion pixels with machine learning: challenges and opportunities**   
 *Dr. Dalton D. Lunga, Oak Ridge National Laboratory* -- [**Keynote Talk**](/keynotes/#talk1)
 
-* `10:05 - 10:30` : **Distributed Moving Object Data Management in MobilityDB**
+* `10:05 - 10:30` : **Distributed Moving Object Data Management in MobilityDB**    
 *Mohamed Bakli, Mahmoud Sakr, Esteban Zimanyi*
 
 ---------------------------------------
@@ -35,13 +35,13 @@ header:
 
 #### Session 2
 
-* `11:00 - 11:25` : **geoEdge: A Real-time Analytics Framework for Geospatial Applications**
+* `11:00 - 11:25` : **geoEdge: A Real-time Analytics Framework for Geospatial Applications**    
 *Ranga Raju Vatsavai, Bharathkumar Ramachandra, Zexi Chen, John Jernigan*
 
-* `11:25 - 11:50` : **Efficient MapReduce Computation of Topological Relations for Big Geometries**
+* `11:25 - 11:50` : **Efficient MapReduce Computation of Topological Relations for Big Geometries**    
 *Alberto Belussi, Damiano Carra, Sara Migliorini, Mauro Negri*
 
-* `11:50 - 12:15` : **Fast Proximity Graph Generation with Spark**
+* `11:50 - 12:15` : **Fast Proximity Graph Generation with Spark**    
 *Arjun Subramanyam Varalakshmi, Chong WANG, Christoph F. Eick*
 
 ---------------------------------------
