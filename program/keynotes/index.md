@@ -27,7 +27,7 @@ float: left;
 ---------------------------------------
 <br />
   
-#### Title:  Creating Global Scale Data Layers from Trillion Pixels with Machine Learning: Challenges and Opportunities    
+#### Title:  Creating Global Scale Data Layers from Trillion Pixels using Machine Learning: A Journey of Challenges and Opportunities    
 
 #### Speaker: [Dr. Dalton D. Lunga](https://www.ornl.gov/staff-profile/dalton-d-lunga){:target="_blank"}, Oak Ridge National Laboratory    
 
