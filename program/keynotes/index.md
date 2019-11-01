@@ -29,7 +29,7 @@ float: left;
   
 #### Title:  Creating global scale data layers from trillion pixels with machine learning: challenges and opportunities    
 
-#### Speaker: Dr. Dalton D. Lunga, Oak Ridge National Laboratory    
+#### Speaker: [Dr. Dalton D. Lunga](https://www.ornl.gov/staff-profile/dalton-d-lunga){:target="_blank"}, Oak Ridge National Laboratory    
 
 #### Abstract:    
 A seismic shift in the commercialization of satellite technology and its rapid deployment is steering the collection of shear volumes of high resolution imagery. As the pervasiveness of machine learning capability in geospatial applications increases, addressing various model generalization challenges is becoming critical. In this talk, I will share lessons learnt at ORNL during our drive to create global scale data layers that are making various societal impact ranging from enabling accurate population distributions, critical infrastructure mapping for damage assessment, and enabling socio-economic stimulation at scale . As a roadmap to future engagements, talk will further present some formidable challenges arising from consideration of trillion pixel capable machine learning systems.
